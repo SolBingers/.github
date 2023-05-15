@@ -16,6 +16,6 @@ Our main task was to make a user-friendly site with a lot of cool functionality.
 [Bohdan Maliuta](https://github.com/Lilu580) \
 [Alexandr Kononenko](https://github.com/Ambulence) \
 [Maksym Maliuk](https://github.com/MaksymMaliuk) \
-[Olecsiy Gavrilyuk](https://github.com/olecsiy-gavrilyuk) \
+[Olecsiy Gavrilyuk](https://github.com/olecsiy-gavrilyuk) 
 
 ### Thanks for your interest💙💛
