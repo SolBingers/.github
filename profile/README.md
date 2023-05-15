@@ -10,12 +10,12 @@ Our main project was a gadget store called [Nice Store](https://github.com/SolBi
 Our main task was to make a user-friendly site with a lot of cool functionality. Our goal was to hone our skills and learn something new.
 
 ### Contributors
-[Anastasiia Kuznetsova](https://github.com/kuznetsova-anastasiia) - Team Lead
-[Kateryna Babina](https://github.com/kateryna-babina)
-[Mykyta Stambul](https://github.com/NikitaStambul)
-[Bohdan Maliuta](https://github.com/Lilu580)
-[Alexandr Kononenko](https://github.com/Ambulence)
-[Maksym Maliuk](https://github.com/MaksymMaliuk)
-[Olecsiy Gavrilyuk](https://github.com/olecsiy-gavrilyuk)
+[Anastasiia Kuznetsova](https://github.com/kuznetsova-anastasiia) - Team Lead \
+[Kateryna Babina](https://github.com/kateryna-babina) \
+[Mykyta Stambul](https://github.com/NikitaStambul) \
+[Bohdan Maliuta](https://github.com/Lilu580) \
+[Alexandr Kononenko](https://github.com/Ambulence) \
+[Maksym Maliuk](https://github.com/MaksymMaliuk) \
+[Olecsiy Gavrilyuk](https://github.com/olecsiy-gavrilyuk) \
 
 ### Thanks for your interest💙💛
