@@ -18,4 +18,10 @@ Our main task was to make a user-friendly site with a lot of cool functionality.
 [Maksym Maliuk](https://github.com/MaksymMaliuk) \
 [Olecsiy Gavrilyuk](https://github.com/olecsiy-gavrilyuk) 
 
+**Donate Ukraine** <br />
+[![Come Back Alive](https://custom-icon-badges.demolab.com/badge/Come%20Back%20Alive-Donate-success.svg?logo=heart&logoColor=white)](https://www.comebackalive.in.ua/donate)
+[![Charity foundation of Serhiy Prytula](https://custom-icon-badges.demolab.com/badge/Charity%20foundation%20of%20Serhiy%20Prytula-Donate-success.svg?logo=heart&logoColor=white)](https://prytulafoundation.org/en/home/support_page)
+[![UNITED 24](https://custom-icon-badges.demolab.com/badge/UNITED%2024-Donate-success.svg?logo=heart&logoColor=white)](https://u24.gov.ua/)
+<br />
+
 ### Thanks for your interest💙💛
